@@ -1,0 +1,3 @@
+--Mata Kuliah TI (Semester 1)--
+1.Algoritma
+2.Matematika Komputasi
